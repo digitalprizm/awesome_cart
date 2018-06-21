@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+				# -*- coding: utf-8 -*-
 # Copyright (c) 2015, DigitThinkIt, Inc. and contributors
 # For license information, please see license.txt
 
@@ -11,7 +11,7 @@ from awesome_cart.compat.addresses import get_address_display, create_address
 
 from awesome_cart import awc
 
-from dti_devtools.debug import log, pretty_json
+# from dti_devtools.debug import log, pretty_json
 
 # simple log level translation table to match ints
 LOG_LEVELS = {

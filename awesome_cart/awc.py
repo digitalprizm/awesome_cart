@@ -17,7 +17,7 @@ from .session import *
 from .utils import is_coupon_valid
 from .awesome_cart.doctype.awc_coupon.awc_coupon import calculate_coupon_discount
 
-from dti_devtools.debug import pretty_json, log
+# from dti_devtools.debug import pretty_json, log
 
 def get_user_quotation(awc_session):
 	party = None
